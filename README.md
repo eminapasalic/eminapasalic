@@ -20,6 +20,7 @@ SQL • MySQL
 
 
 🚀 PROJECTS
+
 🏢 SAP System
 
 Enterprise management system for internal business operations including:
