@@ -28,6 +28,7 @@ work time tracking and payroll
 shift scheduling
 finance tracking
 maintenance and resource management
+
 🌐 HamalBa Platform
 
 Job marketplace platform connecting employers and service providers with:
@@ -39,6 +40,7 @@ trust-based user interactions
 
 📫 CONTACT
 📧 Email: pasalic.emina.21@size.ba
+
 💼 LinkedIn: https://www.linkedin.com/in/se-eminapasalic/
 
 
